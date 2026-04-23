@@ -79,8 +79,9 @@
 
 ## 有任何问题/建议或想做出贡献？
 
-- 请将问题或建议提交至 GitHub 代码库
 - 请将问题或建议提交至 GitHub 代码库[：https://github.com/THORNyX/ShareChest/issues](https://github.com/THORNyX/ShareChest/issues)
+- 小黑盒ID：19245752
+- 哔哩哔哩：https://space.bilibili.com/54236953
 
 ## 更新日志
 
